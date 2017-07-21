@@ -32,13 +32,10 @@
 
 
 
-图片：！
-
- 本地图片可以直接拖入
 
 
+网页图片可以通过图床: ![](http://ww1.sinaimg.cn/large/005SGu1Ply1fhryokt76kj306b061dfs.jpg)
 
-网页图片可以通过图床如上
 
 
 
